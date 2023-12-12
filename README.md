@@ -1,4 +1,7 @@
 # Age Form
+![GitHub last commit](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/Age-form?color=blue)
+![Static Badge](https://img.shields.io/badge/%20build-passing-brightgreen)
+![Last Updated](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/Age-form?label=Last%20Updated&color=yellow)
 
 ## Description
 
