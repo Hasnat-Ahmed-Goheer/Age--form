@@ -3,6 +3,9 @@
 ![Static Badge](https://img.shields.io/badge/%20build-passing-brightgreen)
 ![Last Updated](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/Age-form?label=Last%20Updated&color=yellow)
 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+
 ## Description
 
 Age Form is a basic React application that allows users to enter their age. The form validates if the input is not empty and checks if the provided age is within a valid range. If the input is valid, it displays the age below the form.
